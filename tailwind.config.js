@@ -8,7 +8,10 @@ export default {
     extend: {
       colors: {
         "darkpurple": '#481380'
-      }
+      },
+      fontFamily: {
+        'roboto': "'Roboto', sans-serif"
+     }
     },
   },
   plugins: [],
